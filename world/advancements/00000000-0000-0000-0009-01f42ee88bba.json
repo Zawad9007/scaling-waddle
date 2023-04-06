@@ -1,0 +1,36 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-03-29 17:48:00 +0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2023-03-29 17:50:06 +0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-03-29 17:48:27 +0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-03-29 17:50:06 +0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-03-29 17:46:15 +0600",
+      "minecraft:beach": "2023-03-29 17:46:47 +0600",
+      "minecraft:river": "2023-03-29 17:46:55 +0600",
+      "minecraft:plains": "2023-03-29 17:42:46 +0600"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
